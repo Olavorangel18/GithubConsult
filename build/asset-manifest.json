@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20280cc1.chunk.css",
+    "main.js": "/static/js/main.2d8e18ca.chunk.js",
+    "main.js.map": "/static/js/main.2d8e18ca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7b283c07.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7b283c07.js.map",
+    "static/js/2.18c7a1ff.chunk.js": "/static/js/2.18c7a1ff.chunk.js",
+    "static/js/2.18c7a1ff.chunk.js.map": "/static/js/2.18c7a1ff.chunk.js.map",
+    "static/js/3.ea9624ce.chunk.js": "/static/js/3.ea9624ce.chunk.js",
+    "static/js/3.ea9624ce.chunk.js.map": "/static/js/3.ea9624ce.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.20280cc1.chunk.css.map": "/static/css/main.20280cc1.chunk.css.map",
+    "static/js/2.18c7a1ff.chunk.js.LICENSE.txt": "/static/js/2.18c7a1ff.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/Polygon BG.95a1c2ea.svg",
+    "static/media/logoCRV.73cf936d.svg": "/static/media/logoCRV.73cf936d.svg",
+    "static/media/search.99fc5d05.svg": "/static/media/search.99fc5d05.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b283c07.js",
+    "static/js/2.18c7a1ff.chunk.js",
+    "static/css/main.20280cc1.chunk.css",
+    "static/js/main.2d8e18ca.chunk.js"
+  ]
+}
