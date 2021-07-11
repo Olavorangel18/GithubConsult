@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;800&display=swap');
+
+.search2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.imgLogo2{
+    width: 8em;
+}
+
+#searchRoute{
+    display: flex;
+    flex-grow: 1;
+    width: 50vw;
+    max-width: 700px;
+    height: 3.5em;
+}
+h1{
+    text-transform: capitalize;
+}
+.butaoSearch2 {
+    position: relative;
+    width: 6em;
+    height: 4em;
+    border-radius: 100px;
+    background-color: #E5E5E5;
+    margin-top: 2.2em;
+    border: none;
+    z-index: 1;
+    right: 5em;
+}
+form{
+    display: flex;
+}
+.svgSearch2{
+    width: 2em;
+    max-width: 30px;
+}
+
+.dream{
+    display: flex;
+}
+
+.containerDados{
+    display: flex;
+    height:100%;
+    flex-direction: column;
+    align-content: flex-start;
+    align-items: center;
+    margin-top: 2em;
+}
+
+.containerName{
+    display: flex;
+    width: 50em;
+    background-color: #000000;
+    color: #F9F9F9;
+    border-top-right-radius:10px;
+    border-top-left-radius: 10px;
+}
+
+.containerOthers{
+    display: flex;
+    flex-direction: column;
+    width: 50em;
+    height: auto;
+    background-color: #F9F9F9;
+    border-bottom-right-radius:10px;
+    border-bottom-left-radius: 10px;
+}
+
+.imgUser{
+    margin-top: 3em;
+    display: flex;
+    border-radius: 9999px;
+    width: 15em;
+    height: 15em;
+    align-self: center;
+}
+
+.containerHex{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.dates{
+    display: flex;
+    flex-direction: column;
+    background-image:url("./Polygon\ BG.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 7.1875em;
+    height: 8em;
+    align-items: center;
+    margin-right: 2em;
+    align-content: center;
+    transition: color 0.5s ease;;
+    cursor: pointer;
+}
+
+.dates:hover{
+    color:#E8833A;
+}
+
+h1{
+    padding-left: 3em;
+}
+
+h2{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 800;
+    font-size: 2em;
+    margin-bottom: 0;
+}
+
+p{
+    font-family: 'Manrope', sans-serif;
+    margin-top: 0;
+}
+
+.buttonGithub{
+    display: flex;
+    width: 8em;
+    height: 3em;
+    align-self: center;
+    border-radius: 9999px;
+    border: none;
+    background: #E8833A;
+    align-content: center;
+    align-items: center;
+    transition: background-color 0.5s ease;;
+    cursor: pointer;
+    margin-bottom: 2em;
+}
+.buttonGithub:hover{
+    background-color:#000000;
+}
+.githubText{
+    width: 8em;
+    margin: 0;
+    font-weight: 800;
+    color: #F9F9F9;
+    font-size: 0.9em;
+}
+
+@media (max-width: 1100px){
+    .containerSearch{
+        font-size: 80%;
+    }
+}
+
+@media (max-width: 800px){
+    .containerSearch{
+        font-size: 60%;
+    }
+}
+
+@media (max-width: 685px){
+    .containerSearch{
+        font-size: 40%;
+    }
+    .containerHex{
+        padding-left: 2em;
+    }
+    .butaoSearch{
+        width: 6em;
+    }
+}
